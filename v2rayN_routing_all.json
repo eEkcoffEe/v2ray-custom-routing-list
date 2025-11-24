@@ -6,7 +6,7 @@
       "bittorrent"
     ],
     "enabled": true,
-    "remarks": "Торрент напрямую"
+    "remarks": "Торрент напрямую (автообновлдение)"
   },
   {
     "port": "",
