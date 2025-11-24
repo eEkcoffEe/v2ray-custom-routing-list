@@ -18,7 +18,8 @@
       "rds.sibircentr.ru",
       "cdn.akamai.steamstatic.com",
       "store.steampowered.com",
-      "dirrectumrx.duckdns.org"
+      "dirrectumrx.duckdns.org",
+      "corp.sibircentr.ru"
     ],
     "enabled": true,
     "remarks": "\u0414\u043E\u043C\u0435\u043D\u044B \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E"
