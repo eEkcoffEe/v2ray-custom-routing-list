@@ -97,7 +97,8 @@
       "www.google-analytics.com",
       "fonts.googleapis.com",
       "www.gstatic.com",
-      "cloud.google.com"
+      "cloud.google.com",
+      "alkalimakersuite-pa.clients6.google.com"
     ],
     "enabled": true,
     "remarks": "ИИ‑сервисы через прокси"
