@@ -87,6 +87,15 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "www.instagram.com"
+    ],
+    "enabled": true,
+    "remarks": "Instagram через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
       "www.youtube.com",
       "youtube.com",
       "googlevideo.com",
