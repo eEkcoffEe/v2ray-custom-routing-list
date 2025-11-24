@@ -44,6 +44,10 @@
   {
     "outboundTag": "direct",
     "domain": [
+      "domain:icloud.com",
+      "domain:icloud-content.com",
+      "domain:cdn-apple.com",
+      "geosite:cn",
       "geosite:private"
     ],
     "enabled": true,
@@ -79,6 +83,14 @@
       "copilot.microsoft.com",
       "chatgpt.com",
       "gemini.google.com"
+      "claude.ai",
+      "perplexity.ai",
+      "pi.ai",
+      "huggingface.co",
+      "openai.com",
+      "api.openai.com",
+      "platform.openai.com",
+      "labs.openai.com"
     ],
     "enabled": true,
     "remarks": "ИИ‑сервисы через прокси"
@@ -87,7 +99,9 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "geosite:facebook", "geosite:instagram", "geosite:twitter"
+      "geosite:instagram",
+      "geosite:facebook",
+      "geosite:youtube"
     ],
     "enabled": true,
     "remarks": "Соцсети через прокси"
