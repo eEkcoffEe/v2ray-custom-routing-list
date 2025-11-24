@@ -90,7 +90,8 @@
       "openai.com",
       "api.openai.com",
       "platform.openai.com",
-      "labs.openai.com"
+      "labs.openai.com",
+      "aistudio.google.com"
     ],
     "enabled": true,
     "remarks": "ИИ‑сервисы через прокси"
