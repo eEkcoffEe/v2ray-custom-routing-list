@@ -1,15 +1,6 @@
 [
   {
     "port": "",
-    "outboundTag": "block",
-    "domain": [
-      "geosite:category-ads-all"
-    ],
-    "enabled": true,
-    "remarks": "Блокировка рекламы"
-  },
-  {
-    "port": "",
     "outboundTag": "direct",
     "protocol": [
       "bittorrent"
@@ -48,6 +39,15 @@
     ],
     "enabled": true,
     "remarks": "Российские IP напрямую"
+  },
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true,
+    "remarks": "Блокировка рекламы"
   },
   {
     "port": "",
@@ -186,7 +186,7 @@
   {
     "port": "0-65535",
     "outboundTag": "direct",
-    "enabled": true,
+    "enabled": false,
     "remarks": "Остальное напрямую"
   }
 ]
