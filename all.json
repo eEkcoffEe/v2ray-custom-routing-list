@@ -87,7 +87,8 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "www.instagram.com"
+      "www.instagram.com",
+      "static.cdninstagram.com"
     ],
     "enabled": true,
     "remarks": "Instagram через прокси"
