@@ -111,6 +111,42 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "instagram.com",
+      "www.instagram.com",
+      "cdninstagram.com",
+      "www.cdninstagram.com",
+      "instagr.am",
+      "www.instagr.am",
+      "ig.me",
+      "www.ig.me",
+      "igsonar.com",
+      "api.instagram.com",
+      "graph.instagram.com",
+      "edge-chat.instagram.com",
+      "gateway.instagram.com",
+      "accountscenter.instagram.com",
+      "applink.instagram.com",
+      "b.i.instagram.com",
+      "b-fallback.i.instagram.com",
+      "a.ns.instagram.com",
+      "b.ns.instagram.com",
+      "c.ns.instagram.com",
+      "d.ns.instagram.com",
+      "z-p42-chat-e2ee-ig.facebook.com",
+      "mqtt-ig-p4.facebook.com",
+      "z-p42-chat-e2ee-ig-fallback.facebook.com",
+      "z-p3-instagram-portal.fb.com",
+      "z-p42-instagram-portal.fb.com",
+      "instagram-p3-shv-01-arn2.fbcdn.net",
+      "edge-ig-dgw-shv-01-hel3.facebook.com"
+      ],
+    "enabled": false,
+    "remarks": "Instagram через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
       "www.youtube.com",
       "youtube.com",
       "googlevideo.com",
@@ -127,7 +163,7 @@
       "rr4---sn-q4fl6n6z.googlevideo.com",
       "rr5---sn-5hne6nsd.googlevideo.com"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "YouTube через прокси"
   },
   {
