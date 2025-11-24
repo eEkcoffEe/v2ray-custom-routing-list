@@ -1,3 +1,4 @@
+[
   {
     "port": "",
     "outboundTag": "direct",
@@ -189,3 +190,4 @@
     "enabled": false,
     "remarks": "Остальное напрямую"
   }
+]
