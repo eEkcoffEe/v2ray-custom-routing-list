@@ -36,10 +36,6 @@
   {
     "outboundTag": "direct",
     "domain": [
-      "domain:icloud.com",
-      "domain:icloud-content.com",
-      "domain:cdn-apple.com",
-      "geosite:cn",
       "geosite:private"
     ],
     "enabled": true,
