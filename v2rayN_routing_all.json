@@ -1,199 +1,191 @@
-{
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": 
-    [
-      {
-        "port": "",
-        "outboundTag": "direct",
-        "protocol": [
-          "bittorrent"
-        ],
-        "enabled": true,
-        "remarks": "Торрент напрямую"
-      },
-      {
-        "port": "",
-        "outboundTag": "direct",
-        "domain": [
-          "freetp.org",
-          "www.googletagmanager.com",
-          "www.google-analytics.com",
-          "rds.sibircentr.ru",
-          "cdn.akamai.steamstatic.com",
-          "store.steampowered.com",
-          "dirrectumrx.duckdns.org",
-          "corp.sibircentr.ru",
-          "github.com"
-        ],
-        "enabled": true,
-        "remarks": "Домены напрямую"
-      },
-      {
-        "outboundTag": "direct",
-        "domain": [
-          "geosite:private"
-        ],
-        "enabled": true,
-        "remarks": "Приватные домены напрямую"
-      },
-      {
-        "outboundTag": "direct",
-        "ip": [
-          "geoip:ru"
-        ],
-        "enabled": true,
-        "remarks": "Российские IP напрямую"
-      },
-      {
-        "port": "",
-        "outboundTag": "block",
-        "domain": [
-          "geosite:category-ads-all"
-        ],
-        "enabled": true,
-        "remarks": "Блокировка рекламы"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "arcraidersmaps.app"
-        ],
-        "enabled": true,
-        "remarks": "Домены в прокси"
-      },
-      {
-        "port": "443",
-        "outboundTag": "proxy",
-        "enabled": false,
-        "remarks": "443"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "copilot.microsoft.com",
-          "chatgpt.com",
-          "gemini.google.com",
-          "claude.ai",
-          "perplexity.ai",
-          "pi.ai",
-          "huggingface.co",
-          "openai.com",
-          "api.openai.com",
-          "platform.openai.com",
-          "labs.openai.com",
-          "aistudio.google.com",
-          "apis.google.com",
-          "analytics.google.com",
-          "www.google-analytics.com",
-          "fonts.googleapis.com",
-          "www.gstatic.com",
-          "cloud.google.com",
-          "alkalimakersuite-pa.clients6.google.com"
-        ],
-        "enabled": true,
-        "remarks": "ИИ‑сервисы через прокси"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "geosite:instagram",
-          "geosite:facebook",
-          "geosite:youtube",
-          "geosite:amazon"
-        ],
-        "enabled": true,
-        "remarks": "Соцсети через прокси"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "instagram.com",
-          "www.instagram.com",
-          "cdninstagram.com",
-          "www.cdninstagram.com",
-          "instagr.am",
-          "www.instagr.am",
-          "ig.me",
-          "www.ig.me",
-          "igsonar.com",
-          "api.instagram.com",
-          "graph.instagram.com",
-          "edge-chat.instagram.com",
-          "gateway.instagram.com",
-          "accountscenter.instagram.com",
-          "applink.instagram.com",
-          "b.i.instagram.com",
-          "b-fallback.i.instagram.com",
-          "a.ns.instagram.com",
-          "b.ns.instagram.com",
-          "c.ns.instagram.com",
-          "d.ns.instagram.com",
-          "z-p42-chat-e2ee-ig.facebook.com",
-          "mqtt-ig-p4.facebook.com",
-          "z-p42-chat-e2ee-ig-fallback.facebook.com",
-          "z-p3-instagram-portal.fb.com",
-          "z-p42-instagram-portal.fb.com",
-          "instagram-p3-shv-01-arn2.fbcdn.net",
-          "edge-ig-dgw-shv-01-hel3.facebook.com"
-          ],
-        "enabled": false,
-        "remarks": "Instagram через прокси"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "www.youtube.com",
-          "youtube.com",
-          "googlevideo.com",
-          "ggpht.com",
-          "i.ytimg.com",
-          "static.doubleclick.net",
-          "googleads.g.doubleclick.net",
-          "rr1---sn-q4fzen7y.googlevideo.com",
-          "rr2---sn-5hne6ns6.googlevideo.com",
-          "rr2---sn-5hne6n6e.googlevideo.com",
-          "rr3---sn-q4flrnsk.googlevideo.com",
-          "rr3---sn-q4flrnes.googlevideo.com",
-          "rr3---sn-4g5ednkz.googlevideo.com",
-          "rr4---sn-q4fl6n6z.googlevideo.com",
-          "rr5---sn-5hne6nsd.googlevideo.com"
-        ],
-        "enabled": false,
-        "remarks": "YouTube через прокси"
-      },
-      {
-        "port": "",
-        "outboundTag": "proxy",
-        "domain": [
-          "cdn.discordapp.com",
-          "discord.com",
-          "gateway.discord.gg",
-          "updates.discord.com",
-          "media.discordapp.net",
-          "discord-attachments-uploads-prd.storage.googleapis.com",
-          "discord.media"
-        ],
-        "enabled": true,
-        "remarks": "Discord через прокси (домены)"
-      },
-      {
-        "port": "50000-50100,2083-2096",
-        "outboundTag": "proxy",
-        "enabled": true,
-        "remarks": "Discord через прокси (порты)"
-      },
-      {
-        "port": "0-65535",
-        "outboundTag": "direct",
-        "enabled": false,
-        "remarks": "Остальное напрямую"
-      }
-    ]
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "protocol": [
+      "bittorrent"
+    ],
+    "enabled": true,
+    "remarks": "Торрент напрямую"
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "freetp.org",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "rds.sibircentr.ru",
+      "cdn.akamai.steamstatic.com",
+      "store.steampowered.com",
+      "dirrectumrx.duckdns.org",
+      "corp.sibircentr.ru",
+      "github.com"
+    ],
+    "enabled": true,
+    "remarks": "Домены напрямую"
+  },
+  {
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:private"
+    ],
+    "enabled": true,
+    "remarks": "Приватные домены напрямую"
+  },
+  {
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:ru"
+    ],
+    "enabled": true,
+    "remarks": "Российские IP напрямую"
+  },
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true,
+    "remarks": "Блокировка рекламы"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "arcraidersmaps.app"
+    ],
+    "enabled": true,
+    "remarks": "Домены в прокси"
+  },
+  {
+    "port": "443",
+    "outboundTag": "proxy",
+    "enabled": false,
+    "remarks": "443"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "copilot.microsoft.com",
+      "chatgpt.com",
+      "gemini.google.com",
+      "claude.ai",
+      "perplexity.ai",
+      "pi.ai",
+      "huggingface.co",
+      "openai.com",
+      "api.openai.com",
+      "platform.openai.com",
+      "labs.openai.com",
+      "aistudio.google.com",
+      "apis.google.com",
+      "analytics.google.com",
+      "www.google-analytics.com",
+      "fonts.googleapis.com",
+      "www.gstatic.com",
+      "cloud.google.com",
+      "alkalimakersuite-pa.clients6.google.com"
+    ],
+    "enabled": true,
+    "remarks": "ИИ‑сервисы через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:instagram",
+      "geosite:facebook",
+      "geosite:youtube",
+      "geosite:amazon"
+    ],
+    "enabled": true,
+    "remarks": "Соцсети через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "instagram.com",
+      "www.instagram.com",
+      "cdninstagram.com",
+      "www.cdninstagram.com",
+      "instagr.am",
+      "www.instagr.am",
+      "ig.me",
+      "www.ig.me",
+      "igsonar.com",
+      "api.instagram.com",
+      "graph.instagram.com",
+      "edge-chat.instagram.com",
+      "gateway.instagram.com",
+      "accountscenter.instagram.com",
+      "applink.instagram.com",
+      "b.i.instagram.com",
+      "b-fallback.i.instagram.com",
+      "a.ns.instagram.com",
+      "b.ns.instagram.com",
+      "c.ns.instagram.com",
+      "d.ns.instagram.com",
+      "z-p42-chat-e2ee-ig.facebook.com",
+      "mqtt-ig-p4.facebook.com",
+      "z-p42-chat-e2ee-ig-fallback.facebook.com",
+      "z-p3-instagram-portal.fb.com",
+      "z-p42-instagram-portal.fb.com",
+      "instagram-p3-shv-01-arn2.fbcdn.net",
+      "edge-ig-dgw-shv-01-hel3.facebook.com"
+      ],
+    "enabled": false,
+    "remarks": "Instagram через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "www.youtube.com",
+      "youtube.com",
+      "googlevideo.com",
+      "ggpht.com",
+      "i.ytimg.com",
+      "static.doubleclick.net",
+      "googleads.g.doubleclick.net",
+      "rr1---sn-q4fzen7y.googlevideo.com",
+      "rr2---sn-5hne6ns6.googlevideo.com",
+      "rr2---sn-5hne6n6e.googlevideo.com",
+      "rr3---sn-q4flrnsk.googlevideo.com",
+      "rr3---sn-q4flrnes.googlevideo.com",
+      "rr3---sn-4g5ednkz.googlevideo.com",
+      "rr4---sn-q4fl6n6z.googlevideo.com",
+      "rr5---sn-5hne6nsd.googlevideo.com"
+    ],
+    "enabled": false,
+    "remarks": "YouTube через прокси"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "cdn.discordapp.com",
+      "discord.com",
+      "gateway.discord.gg",
+      "updates.discord.com",
+      "media.discordapp.net",
+      "discord-attachments-uploads-prd.storage.googleapis.com",
+      "discord.media"
+    ],
+    "enabled": true,
+    "remarks": "Discord через прокси (домены)"
+  },
+  {
+    "port": "50000-50100,2083-2096",
+    "outboundTag": "proxy",
+    "enabled": true,
+    "remarks": "Discord через прокси (порты)"
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "direct",
+    "enabled": false,
+    "remarks": "Остальное напрямую"
   }
-}
