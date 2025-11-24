@@ -96,7 +96,8 @@
       "analytics.google.com",
       "www.google-analytics.com",
       "fonts.googleapis.com",
-      "www.gstatic.com"
+      "www.gstatic.com",
+      "cloud.google.com"
     ],
     "enabled": true,
     "remarks": "ИИ‑сервисы через прокси"
