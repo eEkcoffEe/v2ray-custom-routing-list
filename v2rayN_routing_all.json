@@ -101,7 +101,8 @@
     "domain": [
       "geosite:instagram",
       "geosite:facebook",
-      "geosite:youtube"
+      "geosite:youtube",
+      "geosite:amazon"
     ],
     "enabled": true,
     "remarks": "Соцсети через прокси"
