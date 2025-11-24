@@ -113,7 +113,8 @@
       "z-p42-chat-e2ee-ig-fallback.facebook.com",
       "z-p3-instagram-portal.fb.com",
       "z-p42-instagram-portal.fb.com",
-      "instagram-p3-shv-01-arn2.fbcdn.net"
+      "instagram-p3-shv-01-arn2.fbcdn.net",
+      "edge-ig-dgw-shv-01-hel3.facebook.com"
     ],
     "enabled": true,
     "remarks": "Instagram через прокси"
