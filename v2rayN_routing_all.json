@@ -16,7 +16,7 @@
     ],
     "enabled": true,
     "remarks": "steam напрямую"
-  }
+  },
   {
     "port": "",
     "outboundTag": "direct",
