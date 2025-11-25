@@ -11,10 +11,8 @@
   {
     "port": "",
     "outboundTag": "direct",
-    "process": [
-      "steam.exe",
-      "steamservice.exe",
-      "steamwebhelper.exe"
+    "domain": [
+      "cmp1-ams1.steamserver.net"
     ],
     "enabled": true,
     "remarks": "steam напрямую"
