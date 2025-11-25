@@ -20,8 +20,8 @@
 
 ## 🌐 Доменная стратегия
 Выберите стратегию:
-- `AsIs`
-- `IPIfNonMatch`
+`AsIs`
+`IPIfNonMatch`
 
 ---
 
