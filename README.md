@@ -59,7 +59,7 @@
 ---
 
 ### 🤖 Android
-- [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  
+- [V2rayNG](https://play.google.com/store/apps/details?id=com.v2raytun.android)  
   Устанавливается из Google Play, очень похож на Nekobox по функционалу, лучше использовать его.  
 - [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
