@@ -11,6 +11,17 @@
   {
     "port": "",
     "outboundTag": "direct",
+    "process": [
+      "steam.exe",
+      "steamservice.exe",
+      "steamwebhelper.exe"
+    ],
+    "enabled": true,
+    "remarks": "steam напрямую"
+  }
+  {
+    "port": "",
+    "outboundTag": "direct",
     "domain": [
       "freetp.org",
       "www.googletagmanager.com",
