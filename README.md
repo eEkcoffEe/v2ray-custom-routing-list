@@ -59,8 +59,8 @@
 ---
 
 ### 🤖 Android
-- [V2rayNG](https://play.google.com/store/apps/details?id=com.v2raytun.android)  
+- [V2rayNG](https://github.com/2dust/v2rayNG/releases)  
   Устанавливается из Google Play, очень похож на Nekobox по функционалу, лучше использовать его.  
 - [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-
+- [v2raytun](https://play.google.com/store/apps/details?id=com.v2raytun.android)
 </div>
