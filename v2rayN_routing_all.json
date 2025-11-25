@@ -173,7 +173,8 @@
       "updates.discord.com",
       "media.discordapp.net",
       "discord-attachments-uploads-prd.storage.googleapis.com",
-      "discord.media"
+      "discord.media",
+      "updates.discord.com"
     ],
     "enabled": true,
     "remarks": "Discord через прокси (домены)"
