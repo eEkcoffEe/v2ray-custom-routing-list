@@ -12,7 +12,7 @@
     "port": "",
     "outboundTag": "direct",
     "domain": [
-      "cmp1-ams1.steamserver.net"
+      "steamcontent.com"
     ],
     "enabled": true,
     "remarks": "steam напрямую"
