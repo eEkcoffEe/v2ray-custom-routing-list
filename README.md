@@ -35,28 +35,32 @@
 
 ---
 
-Клиенты для разных операционных систем.
-Windows
-V2RayN:
-https://github.com/2dust/v2rayN/releases
+## 💻 Клиенты для разных операционных систем
 
-MacOS
-V2Box
-FoxRay
+### 🪟 Windows
+- [V2RayN](https://github.com/2dust/v2rayN/releases)
 
-Linux
-Nekoray
-https://github.com/MatsuriDayo/nekoray/releases
+---
 
-IOS
-Streisand:
-https://apps.apple.com/ru/app/streisand/id6450534064
+### 🍎 MacOS
+- V2Box  
+- FoxRay  
 
-Android
-V2rayNG
-Устанавливается из Google Play, очень сильно похож на Nekobox по функционалу, лучше использовать его.
-https://play.google.com/store/apps/details?id=com.v2ray.ang
+---
 
-NekoBox:
-https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+### 🐧 Linux
+- [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+
+---
+
+### 📱 iOS
+- [Streisand](https://apps.apple.com/ru/app/streisand/id6450534064)
+
+---
+
+### 🤖 Android
+- [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  
+  Устанавливается из Google Play, очень похож на Nekobox по функционалу, лучше использовать его.  
+- [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+
 </div>
