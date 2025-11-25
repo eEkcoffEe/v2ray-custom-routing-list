@@ -2,8 +2,11 @@
 
 <div align="center">
 ## 📌 Шаблон правил
-<a href="https://raw.githubusercontent.com/eEkcoffEe/v2ray-custom-routing-list/refs/heads/main/v2rayN_template.json">
-Копировать шаблон v2rayN
+<div align="center">
+  <a href="https://raw.githubusercontent.com/eEkcoffEe/v2ray-custom-routing-list/refs/heads/main/v2rayN_template.json">
+    Копировать шаблон v2rayN
+  </a>
+</div>
 ---
 
 ## 🔧 Добавление источника правил маршрутизации
