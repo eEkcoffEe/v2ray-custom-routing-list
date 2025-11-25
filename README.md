@@ -1,7 +1,5 @@
 <div align="center">
 <h1 align="center">v2ray-custom-routing-list</h1>
-  
----
 
 ## 📌 Шаблон правил
 <div align="center">
