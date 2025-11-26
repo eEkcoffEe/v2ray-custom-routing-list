@@ -146,7 +146,7 @@
       "instagram-p3-shv-01-arn2.fbcdn.net",
       "edge-ig-dgw-shv-01-hel3.facebook.com"
       ],
-    "enabled": false,
+    "enabled": true,
     "remarks": "Instagram через прокси"
   },
   {
@@ -169,7 +169,7 @@
       "rr4---sn-q4fl6n6z.googlevideo.com",
       "rr5---sn-5hne6nsd.googlevideo.com"
     ],
-    "enabled": false,
+    "enabled": true,
     "remarks": "YouTube через прокси"
   },
   {
