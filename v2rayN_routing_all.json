@@ -12,8 +12,7 @@
     "port": "",
     "outboundTag": "direct",
     "domain": [
-      "steamcontent.com",
-      "dirrectumrx.duckdns.org"
+      "steamcontent.com"
     ],
     "enabled": true,
     "remarks": "steam напрямую"
@@ -30,7 +29,8 @@
       "store.steampowered.com",
       "dirrectumrx.duckdns.org",
       "corp.sibircentr.ru",
-      "github.com"
+      "github.com",
+      "dirrectumrx.duckdns.org"
     ],
     "enabled": true,
     "remarks": "Домены напрямую"
