@@ -12,7 +12,8 @@
     "port": "",
     "outboundTag": "direct",
     "domain": [
-      "steamcontent.com"
+      "steamcontent.com",
+      "dirrectumrx.duckdns.org"
     ],
     "enabled": true,
     "remarks": "steam напрямую"
