@@ -270,7 +270,7 @@
     "remarks": "Discord через прокси (домены)"
   },
   {
-    "port": "50000-50100,2083-2096",
+    "port": "50000-50100,2083-2096,19300",
     "outboundTag": "proxy",
     "enabled": true,
     "remarks": "Discord через прокси (порты)"
