@@ -175,6 +175,29 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "shield.ac.ea.com",
+      "s3-website.eu-central-1.amazonaws.com",
+      "prod.globalsign.map.fastly.net",
+      "ocsp2.globalsign.com",
+      "ocsp.usertrust.com",
+      "ocsp.quovadisglobal.com.cdn.cloudflare.net",
+      "ocsp.globalsign.com",
+      "ocsp.digicert.com.cdn.cloudflare.net",
+      "e3782.cd.akamaiedge.net",
+      "e2381.cd.akamaiedge.net",
+      "e13678.dscb.akamaiedge.net",
+      "crt.sectigo.com",
+      "cdn.static.zdbb.net",
+      "a2-17-189-192.deploy.static.akamaitechnologies.com",
+      "4604367-gamdav.twc1.net"
+    ],
+    "enabled": false,
+    "remarks": "EA to proxy"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
       "instagram.com",
       "www.instagram.com",
       "cdninstagram.com",
