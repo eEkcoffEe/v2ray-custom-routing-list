@@ -35,6 +35,10 @@
 
 ---
 
+<img width="150" height="43" alt="{8EF34BE1-A5AD-4DA8-95B5-39747D6F2519}" src="https://github.com/user-attachments/assets/f4e67967-cfb0-442e-87c7-d9b2bf2b467f" />
+
+---
+
 ## 💻 Клиенты для разных операционных систем
 
 ### 🪟 Windows
