@@ -30,7 +30,8 @@
       "dirrectumrx.duckdns.org",
       "corp.sibircentr.ru",
       "github.com",
-      "dirrectumrx.duckdns.org"
+      "dirrectumrx.duckdns.org",
+      "web.telegram.org"
     ],
     "enabled": true,
     "remarks": "Домены напрямую"
