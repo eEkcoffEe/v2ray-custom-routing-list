@@ -23,3 +23,4 @@
 0.0.0.0 jules.google
 0.0.0.0 app.trysixth.com
 0.0.0.0 github.com
+0.0.0.0 yastatic.net
