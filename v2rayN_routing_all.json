@@ -31,7 +31,8 @@
       "corp.sibircentr.ru",
       "github.com",
       "dirrectumrx.duckdns.org",
-      "web.telegram.org"
+      "web.telegram.org",
+      "mail.yandex.ru"
     ],
     "enabled": true,
     "remarks": "Домены напрямую"
