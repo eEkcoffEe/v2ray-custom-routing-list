@@ -20,3 +20,4 @@
 0.0.0.0 24-7music.com
 0.0.0.0 radiorecord.hostingradio.ru
 0.0.0.0 docs.24-7music.com
+0.0.0.0 jules.google
