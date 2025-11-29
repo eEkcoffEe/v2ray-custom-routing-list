@@ -68,3 +68,7 @@
 - [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 - [v2raytun](https://play.google.com/store/apps/details?id=com.v2raytun.android)
 </div>
+
+Дополнительные материалы:
+https://github.com/v2fly/domain-list-community
+https://github.com/ServerTechnologies/youtube-instructions/blob/main/marzban-settings.md
