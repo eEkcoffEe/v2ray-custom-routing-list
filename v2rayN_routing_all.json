@@ -33,7 +33,8 @@
       "dirrectumrx.duckdns.org",
       "web.telegram.org",
       "mail.yandex.ru",
-      "yandex.ru"
+      "yandex.ru",
+      "praktikum-services.ru"
     ],
     "enabled": true,
     "remarks": "Домены напрямую"
