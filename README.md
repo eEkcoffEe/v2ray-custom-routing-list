@@ -70,5 +70,5 @@
 </div>
 
 Дополнительные материалы:
-https://github.com/v2fly/domain-list-community : 
+https://github.com/v2fly/domain-list-community/tree/master/data : 
 https://github.com/ServerTechnologies/youtube-instructions/blob/main/marzban-settings.md
