@@ -54,7 +54,7 @@
 
 ### 🐧 Linux
 - [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-
+- [v2rayN](https://github.com/2dust/v2rayN/releases/)
 ---
 
 ### 📱 iOS
