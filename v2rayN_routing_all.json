@@ -32,7 +32,8 @@
       "github.com",
       "dirrectumrx.duckdns.org",
       "web.telegram.org",
-      "mail.yandex.ru"
+      "mail.yandex.ru",
+      "yandex.ru"
     ],
     "enabled": true,
     "remarks": "Домены напрямую"
