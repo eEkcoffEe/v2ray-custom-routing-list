@@ -24,3 +24,4 @@
 0.0.0.0 app.trysixth.com
 0.0.0.0 github.com
 0.0.0.0 yastatic.net
+0.0.0.0 kilo.ai
