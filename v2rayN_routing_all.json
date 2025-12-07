@@ -232,7 +232,7 @@
       "geosite:youtube",
       "geosite:amazon"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "Соцсети через прокси"
   },
   {
