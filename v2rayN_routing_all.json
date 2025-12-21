@@ -148,11 +148,13 @@
     "enabled": true,
     "remarks": "Блокировка рекламы"
   },
+  [
   {
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "arcraidersmaps.app"
+      "arcraidersmaps.app",
+      "v2raytun.com"
     ],
     "enabled": true,
     "remarks": "Домены в прокси"
