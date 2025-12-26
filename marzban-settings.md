@@ -1,3 +1,5 @@
+vless://49be6dc8-9035-4e6e-96d3-464c4efb896d@195.133.41.115:443?security=reality&type=tcp&headerType=&path=&host=&sni=github.com&fp=chrome&pbk=goza2vQSyh0xjqlul8G4G3kkK7KDEKtN0ohySMhyPHQ&sid=124ff8446cac1e5e#%F0%9F%9A%80%20Marz%20%28sbertv%29%20%5BVLESS%20-%20tcp%5D
+
 # Установка и настройка панели управления Marzban
 Marzban — это инструмент управления прокси-серверами, который позволит вам без знаний программирования создать собственный ВПН (прокси) сервер на базе Xray-core с удобный графическим интерфейсом.
 
