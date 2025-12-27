@@ -27,3 +27,5 @@
 0.0.0.0 kilo.ai
 0.0.0.0 auth.embark.net
 0.0.0.0 lzt.market
+0.0.0.0 cloudns.nz
+0.0.0.0 cloudns.ph
