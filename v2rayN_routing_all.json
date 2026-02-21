@@ -99,7 +99,9 @@
       "www.google-analytics.com",
       "www.googletagmanager.com",
       "yandex.ru",
-      "yastatic.net"
+      "yastatic.net",
+      "steamcontent.com",
+      "redtunnel-rooster.duckdns.org"
     ],
     "enabled": true,
     "remarks": "domen to direct"
@@ -823,7 +825,9 @@
       "discordapp.io",
       "discordcdn.com",
       "discord-attachments-uploads-prd.storage.googleapis.com",
-      "hammerandchisel.ssl.zendesk.com"
+      "hammerandchisel.ssl.zendesk.com",
+      "googleusercontent.com",
+      "telegram.org"
     ],
     "enabled": true,
     "remarks": "discord to proxy"
