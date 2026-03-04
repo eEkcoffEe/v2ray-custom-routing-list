@@ -899,12 +899,6 @@
     "remarks": "telegram to proxy"
   },
   {
-    "port": "19300-19400,50000-50100,2083-2096",
-    "outboundTag": "proxy",
-    "enabled": true,
-    "remarks": "discord to proxy (порты)"
-  },
-  {
     "port": "",
     "outboundTag": "proxy",
     "ip": [
@@ -914,6 +908,12 @@
     ],
     "enabled": true,
     "remarks": "ip to proxy"
+  },
+  {
+    "port": "19300-19400,50000-50100,2083-2096",
+    "outboundTag": "proxy",
+    "enabled": true,
+    "remarks": "discord to proxy (порты)"
   },
   {
     "port": "0-65535",
