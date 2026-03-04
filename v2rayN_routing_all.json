@@ -151,6 +151,32 @@
   },
   {
     "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "modules-cdn.eac-prod.on.epicgames.com",
+      "a1186.d.akamai.net",
+      "gaming-sdk.com",
+      "eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com",
+      "epicgames.com"
+    ],
+    "enabled": true,
+    "remarks": "arcraders to proxy"
+  },
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "rockstargames.com",
+      "rsg.sc",
+      "gamedownloads-rockstargames-com.akamaized.net",
+      "media-rockstargames-com.akamaized.net",
+      "videos-rockstargames-com.akamaized.net"
+    ],
+    "enabled": true,
+    "remarks": "rockstar to proxy"
+  },
+  {
+    "port": "",
     "outboundTag": "proxy",
     "domain": [
       "arcraidersmaps.app",
