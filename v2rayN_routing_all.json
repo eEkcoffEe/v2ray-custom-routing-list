@@ -149,7 +149,6 @@
     "enabled": true,
     "remarks": "Блокировка рекламы"
   },
-  [
   {
     "port": "",
     "outboundTag": "proxy",
