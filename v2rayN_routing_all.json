@@ -825,8 +825,7 @@
       "youtubekids.com",
       "youtubemobilesupport.com",
       "yt.be",
-      "ytimg.com",
-      "full:yt3.googleusercontent.com"
+      "ytimg.com"
     ],
     "enabled": true,
     "remarks": "youtube to proxe"
@@ -900,7 +899,7 @@
     "remarks": "telegram to proxy"
   },
   {
-    "port": "50000-50100,2083-2096,19300-19400",
+    "port": "19300-19400,50000-50100,2083-2096",
     "outboundTag": "proxy",
     "enabled": true,
     "remarks": "discord to proxy (порты)"
