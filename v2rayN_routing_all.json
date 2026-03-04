@@ -95,7 +95,6 @@
       "praktikum-services.ru",
       "rds.sibircentr.ru",
       "store.steampowered.com",
-      "web.telegram.org",
       "www.google-analytics.com",
       "www.googletagmanager.com",
       "yandex.ru",
@@ -827,7 +826,8 @@
       "discord-attachments-uploads-prd.storage.googleapis.com",
       "hammerandchisel.ssl.zendesk.com",
       "googleusercontent.com",
-      "telegram.org"
+      "telegram.org",
+      "web.telegram.org"
     ],
     "enabled": true,
     "remarks": "discord to proxy"
