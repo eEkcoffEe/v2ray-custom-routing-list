@@ -900,7 +900,7 @@
     "remarks": "telegram to proxy"
   },
   {
-    "port": "50000-50100,2083-2096,19300",
+    "port": "50000-50100,2083-2096,19300-19400",
     "outboundTag": "proxy",
     "enabled": true,
     "remarks": "discord to proxy (порты)"
