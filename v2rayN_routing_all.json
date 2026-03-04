@@ -87,7 +87,6 @@
       "cdn.akamai.steamstatic.com",
       "client2pubsub.europe.es-dis.net",
       "corp.sibircentr.ru",
-      "dirrectumrx.duckdns.org",
       "es-dis.net",
       "freetp.org",
       "github.com",
@@ -866,7 +865,8 @@
       "hammerandchisel.ssl.zendesk.com",
       "googleusercontent.com",
       "telegram.org",
-      "web.telegram.org"
+      "web.telegram.org",
+      "dirrectumrx.duckdns.org"
     ],
     "enabled": true,
     "remarks": "discord to proxy"
