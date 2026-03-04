@@ -863,19 +863,47 @@
       "discordcdn.com",
       "discord-attachments-uploads-prd.storage.googleapis.com",
       "hammerandchisel.ssl.zendesk.com",
-      "googleusercontent.com",
-      "telegram.org",
-      "web.telegram.org",
-      "dirrectumrx.duckdns.org"
+      "googleusercontent.com"
     ],
     "enabled": true,
     "remarks": "discord to proxy"
   },
   {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "cdn-telegram.org",
+      "comments.app",
+      "contest.com",
+      "fragment.com",
+      "graph.org",
+      "quiz.directory",
+      "t.me",
+      "tdesktop.com",
+      "telega.one",
+      "telegra.ph",
+      "telegram-cdn.org",
+      "telegram.dog",
+      "telegram.me",
+      "telegram.org",
+      "telegram.space",
+      "telesco.pe",
+      "tg.dev",
+      "ton.org",
+      "tx.me",
+      "usercontent.dev",
+      "web.telegram.org",
+      "zws2.web.telegram.org",
+      "dirrectumrx.duckdns.org"
+    ],
+    "enabled": true,
+    "remarks": "telegram to proxy"
+  },
+  {
     "port": "50000-50100,2083-2096,19300",
     "outboundTag": "proxy",
     "enabled": true,
-    "remarks": "discord o proxy (порты)"
+    "remarks": "discord to proxy (порты)"
   },
   {
     "port": "0-65535",
