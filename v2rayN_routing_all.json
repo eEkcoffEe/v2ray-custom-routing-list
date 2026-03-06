@@ -64,7 +64,6 @@
     "domain": [
       "geosite:private",
       "geosite:steam",
-      "geosite:ru",
       "domain:ru"
     ],
     "enabled": true,
