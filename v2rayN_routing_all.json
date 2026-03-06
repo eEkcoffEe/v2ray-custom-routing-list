@@ -6,7 +6,7 @@
       "bittorrent"
     ],
     "enabled": true,
-    "remarks": "Торрент напрямую (автообновлдение)"
+    "remarks": "bittorrent to direct"
   },
   {
     "port": "",
@@ -54,10 +54,13 @@
     "outboundTag": "direct",
     "domain": [
       "geosite:private",
-      "domain:ru"
+      "geosite:steam",
+      "domain:ru",
+      "geoip:ru",
+      "geosite:ru"
     ],
     "enabled": true,
-    "remarks": "Приватные домены напрямую"
+    "remarks": "ru domain direct"
   },
   {
     "port": "",
@@ -253,7 +256,8 @@
       "geosite:facebook",
       "geosite:youtube",
       "geosite:amazon",
-      "geosite:discord"
+      "geosite:discord",
+      "geosite:openai"
     ],
     "enabled": false,
     "remarks": "geosite через прокси"
