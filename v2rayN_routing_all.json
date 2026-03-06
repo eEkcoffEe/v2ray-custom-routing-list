@@ -902,6 +902,18 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
+      "rust-lang.org",
+      "rustup.rs",
+      "crates.io",
+      "docs.rs"
+    ],
+    "enabled": true,
+    "remarks": "rust to proxy"
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
       "argotunnel.com",
       "browser.run",
       "cfargotunnel.com",
