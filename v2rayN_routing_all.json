@@ -36,7 +36,9 @@
       "www.googletagmanager.com",
       "yandex.ru",
       "yastatic.net",
-      "redtunnel-rooster.duckdns.org"
+      "redtunnel-rooster.duckdns.org",
+      "radiorecord.hostingradio.ru",
+      "valve.net"
     ],
     "enabled": true,
     "remarks": "domen to direct"
@@ -157,7 +159,7 @@
       "eos-gateway-ingressv2-prod-c3-w2.befa.live.use1a.on.epicgames.com",
       "epicgames.com"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "arcraders to proxy"
   },
   {
@@ -184,7 +186,7 @@
       "cloudflarestorage.com",
       "signaling-service-prod.eun1.live.rtcp.on.epicgames.com"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "AI to proxy"
   },
   {
