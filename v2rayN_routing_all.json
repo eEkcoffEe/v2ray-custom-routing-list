@@ -56,7 +56,6 @@
       "geosite:private",
       "geosite:steam",
       "domain:ru",
-      "geoip:ru",
       "geosite:ru"
     ],
     "enabled": true,
