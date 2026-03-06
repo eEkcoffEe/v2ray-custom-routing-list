@@ -11,15 +11,6 @@
   {
     "port": "",
     "outboundTag": "direct",
-    "ip": [
-      "194.87.49.168/24"
-    ],
-    "enabled": false,
-    "remarks": "hosts direct"
-  },
-  {
-    "port": "",
-    "outboundTag": "direct",
     "domain": [
       "auth.embark.net",
       "cdn.akamai.steamstatic.com",
