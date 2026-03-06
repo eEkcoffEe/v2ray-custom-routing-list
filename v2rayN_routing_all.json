@@ -253,8 +253,6 @@
       "geosite:facebook",
       "geosite:youtube",
       "geosite:amazon",
-      "geosite:youtube",
-      "geosite:instagram",
       "geosite:discord"
     ],
     "enabled": false,
