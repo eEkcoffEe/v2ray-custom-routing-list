@@ -138,7 +138,7 @@
       "steamchina.com",
       "gstore.val.manlaxy.com"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "steam to direct"
   },
   {
@@ -949,7 +949,7 @@
       "warp.plus",
       "workers.dev"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "cloudflare to proxy"
   },
   {
@@ -966,7 +966,7 @@
   {
     "port": "19300-19400,50000-50100,2083-2096",
     "outboundTag": "proxy",
-    "enabled": true,
+    "enabled": false,
     "remarks": "discord to proxy (порты)"
   },
   {
