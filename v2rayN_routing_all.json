@@ -254,7 +254,8 @@
       "geosite:youtube",
       "geosite:amazon",
       "geosite:youtube",
-      "geosite:instagram"
+      "geosite:instagram",
+      "geosite:discord"
     ],
     "enabled": false,
     "remarks": "geosite через прокси"
