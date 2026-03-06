@@ -64,8 +64,8 @@
     "domain": [
       "geosite:private",
       "geosite:steam",
-      "domain:ru",
-      "geosite:ru"
+      "geosite:ru",
+      "domain:ru"
     ],
     "enabled": true,
     "remarks": "ru domain direct"
@@ -256,7 +256,8 @@
       "geosite:youtube",
       "geosite:amazon",
       "geosite:discord",
-      "geosite:openai"
+      "geosite:openai",
+      "geosite:ea"
     ],
     "enabled": false,
     "remarks": "geosite через прокси"
