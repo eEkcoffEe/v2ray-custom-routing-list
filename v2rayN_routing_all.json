@@ -252,10 +252,12 @@
       "geosite:instagram",
       "geosite:facebook",
       "geosite:youtube",
-      "geosite:amazon"
+      "geosite:amazon",
+      "geosite:youtube",
+      "geosite:instagram"
     ],
     "enabled": false,
-    "remarks": "Соцсети через прокси"
+    "remarks": "geosite через прокси"
   },
   {
     "port": "",
@@ -323,9 +325,6 @@
       "ss2.us",
       "amazon-adsystem.com",
       "serving-sys.com",
-      "wholefoodsmarket",
-      "xn--cckwcxetd",
-      "xn--jlq480n2rg",
       "yamaxun",
       "zappos",
       "a2z.com",
@@ -430,7 +429,6 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "origin",
       "awayoutgame.com",
       "battlefieldbadcompany2.com",
       "battlefront2.com",
@@ -960,7 +958,7 @@
       "35.224.0.0/12",
       "35.240.0.0/13"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "ip to proxy"
   },
   {
@@ -972,7 +970,7 @@
   {
     "port": "0-65535",
     "outboundTag": "direct",
-    "enabled": false,
+    "enabled": true,
     "remarks": "Остальное напрямую"
   }
 ]
