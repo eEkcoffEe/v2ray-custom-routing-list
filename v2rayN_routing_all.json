@@ -136,7 +136,7 @@
       "steamchina.com",
       "gstore.val.manlaxy.com"
     ],
-    "enabled": false,
+    "enabled": true,
     "remarks": "steam to direct"
   },
   {
@@ -204,14 +204,12 @@
       "api.openai.com",
       "platform.openai.com",
       "labs.openai.com",
-      "aistudio.google.com",
       "apis.google.com",
       "analytics.google.com",
       "www.google-analytics.com",
       "fonts.googleapis.com",
       "www.gstatic.com",
-      "cloud.google.com",
-      "alkalimakersuite-pa.clients6.google.com"
+      "cloud.google.com"
     ],
     "enabled": true,
     "remarks": "ИИ-сервисы через прокси"
@@ -325,14 +323,7 @@
       "ss2.us",
       "amazon-adsystem.com",
       "serving-sys.com",
-      "amazon-ads",
-      "amazontrust",
-      "aws",
-      "imdb",
-      "kindle",
-      "primevideo",
       "wholefoodsmarket",
-      "amazon",
       "xn--cckwcxetd",
       "xn--jlq480n2rg",
       "yamaxun",
@@ -641,8 +632,7 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "youtube",
-      "ggpht.cn @cn",
+      "ggpht.cn",
       "ggpht.com",
       "googlevideo.com",
       "wide-youtube.l.google.com",
