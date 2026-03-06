@@ -971,7 +971,7 @@
   },
   {
     "port": "0-65535",
-    "outboundTag": "direct",
+    "outboundTag": "proxy",
     "enabled": true,
     "remarks": "Остальное напрямую"
   }
