@@ -888,7 +888,7 @@
       "rustroom.gg",
       "survivors.gg"
     ],
-    "enabled": false,
+    "enabled": true,
     "remarks": "rust to proxy"
   },
   {
