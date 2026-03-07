@@ -5,7 +5,7 @@
     "domain": [
       "geosite:category-ads-all"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "Блокировка рекламы"
   },
   {
@@ -76,7 +76,7 @@
     "ip": [
       "geoip:ru"
     ],
-    "enabled": true,
+    "enabled": false,
     "remarks": "geoip to direct"
   },
   {
@@ -884,10 +884,9 @@
     "port": "",
     "outboundTag": "proxy",
     "domain": [
-      "rust-lang.org",
-      "rustup.rs",
-      "crates.io",
-      "docs.rs"
+      "magicrust.gg",
+      "rustroom.gg",
+      "survivors.gg"
     ],
     "enabled": false,
     "remarks": "rust to proxy"
